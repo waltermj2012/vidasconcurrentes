@@ -3,6 +3,7 @@ import java.util.regex.Pattern;
 
 /*
  * Author: Meta | www.vidasconcurrentes.blogspot.com
+ * Related to: http://vidasconcurrentes.blogspot.com/2011/05/expresiones-regulares-y-lenguajes-de.html
  */
 public class RegexJava {
 	
