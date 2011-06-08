@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Pedidos>
+   <Pedido numeroPedido="1">
+      <Cliente>
+         <Nombre>Thomas</Nombre>
+         <Apellido>Anderson</Apellido>
+         <User>Neo</User>
+      </Cliente>
+      <Productos>
+         <Producto>
+            <Nombre>Matrix 7.0</Nombre>
+            <FechaAlta>1307542390468</FechaAlta>
+         </Producto>
+         <Producto>
+            <Nombre>Gravedad 2.0</Nombre>
+            <FechaAlta>1307542390468</FechaAlta>
+         </Producto>
+      </Productos>
+   </Pedido>
+   <Pedido numeroPedido="2">
+      <Cliente>
+         <Nombre>Mr.</Nombre>
+         <Apellido>Regan</Apellido>
+         <User>Cifra</User>
+      </Cliente>
+      <Productos>
+         <Producto>
+            <Nombre>Reinsercion 1.0</Nombre>
+            <FechaAlta>1307542390468</FechaAlta>
+         </Producto>
+      </Productos>
+   </Pedido>
+</Pedidos>
+
